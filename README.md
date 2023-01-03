@@ -1,2 +1,2 @@
-# dali-swap
-DaLI Swap
+yarn
+yarn dev
