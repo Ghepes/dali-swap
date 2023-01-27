@@ -8,7 +8,7 @@ const useAnalytics = () => {
 	useEffect(() => {
 		if (process.env.NODE_ENV === 'production') {
 			Fathom.load('ZHMZCAUS', {
-				includedDomains: ['swap.wromo.de'],
+				includedDomains: ['swap.wromo.net'],
 				url: '/script.js'
 			});
 		}
