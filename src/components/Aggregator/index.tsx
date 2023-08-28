@@ -680,7 +680,7 @@ export function AggregatorContainer({ tokenlist }) {
 
 			<Text fontSize="1rem" fontWeight="500">
 				This product is still in beta. If you run into any issue please let us know in our{' '}
-				<a style={{ textDecoration: 'underline' }} href="https://discord.gg/jWkbDjxB">
+				<a style={{ textDecoration: 'underline' }} href="https://discord.gg/U956Phu3">
 					discord server
 				</a>
 			</Text>
