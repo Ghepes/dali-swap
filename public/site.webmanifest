@@ -1,6 +1,6 @@
 {
 name: "Exchange DaLISwap",
-	"short_nam: " Exchange n "DaLISwap",
+short_name: "Exchange DaLISwap",
 	"icons": [
 		{
 			"src": "/android-chrome-512x512.png",
